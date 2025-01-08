@@ -14,7 +14,7 @@
 </template>
 
 <script>
-    import InputText from './InputText.vue'
+    import InputText from './InputText'
     import Submit from './Submit.vue'
     export default{
         name: 'Form',
